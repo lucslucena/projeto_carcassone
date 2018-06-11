@@ -1,5 +1,6 @@
 package br.ufpb.dcx.aps.carcassone;
 
+
 public class Jogador{
 
 	private Cor jogador;
